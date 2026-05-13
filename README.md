@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Table of Contents
+## 📌 Index
 
 - About the Project
 - Objectives of the Analysis
